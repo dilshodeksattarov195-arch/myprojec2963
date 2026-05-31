@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersave",
+        "uuid": 9558638,
+        "checksum": "a8xotc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
